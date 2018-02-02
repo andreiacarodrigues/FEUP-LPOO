@@ -1,0 +1,61 @@
+Enemies.png
+size: 748, 127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat
+  rotate: false
+  xy: 203, 1
+  size: 180, 58
+  orig: 180, 61
+  offset: 0, 0
+  index: -1
+ladybug
+  rotate: false
+  xy: 385, 58
+  size: 180, 54
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+slime1
+  rotate: false
+  xy: 203, 61
+  size: 180, 55
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+slime2
+  rotate: false
+  xy: 385, 1
+  size: 180, 55
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+slime3
+  rotate: false
+  xy: 567, 1
+  size: 180, 55
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+spinner
+  rotate: false
+  xy: 1, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+worm1
+  rotate: false
+  xy: 567, 58
+  size: 180, 33
+  orig: 180, 33
+  offset: 0, 0
+  index: -1
+worm2
+  rotate: false
+  xy: 567, 93
+  size: 180, 33
+  orig: 180, 33
+  offset: 0, 0
+  index: -1

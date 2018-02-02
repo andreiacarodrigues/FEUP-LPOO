@@ -1,0 +1,159 @@
+ButtonsAndHeaders.png
+size: 1534, 1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Exit
+  rotate: false
+  xy: 1, 868
+  size: 147, 151
+  orig: 160, 160
+  offset: 8, 2
+  index: -1
+back
+  rotate: false
+  xy: 150, 868
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+backPressed
+  rotate: false
+  xy: 299, 868
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+gameOver
+  rotate: false
+  xy: 1, 693
+  size: 677, 173
+  orig: 800, 288
+  offset: 68, 59
+  index: -1
+info
+  rotate: false
+  xy: 448, 868
+  size: 147, 151
+  orig: 160, 160
+  offset: 6, 2
+  index: -1
+infoPressed
+  rotate: false
+  xy: 597, 868
+  size: 147, 151
+  orig: 160, 160
+  offset: 6, 2
+  index: -1
+informacoes
+  rotate: false
+  xy: 855, 1
+  size: 677, 173
+  orig: 800, 288
+  offset: 68, 59
+  index: -1
+multiplayer
+  rotate: false
+  xy: 680, 693
+  size: 147, 151
+  orig: 160, 160
+  offset: 9, 2
+  index: -1
+multiplayerPressed
+  rotate: false
+  xy: 1219, 526
+  size: 147, 151
+  orig: 160, 160
+  offset: 9, 2
+  index: -1
+noSound
+  rotate: false
+  xy: 1368, 526
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+noSoundPressed
+  rotate: false
+  xy: 829, 708
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+panel
+  rotate: false
+  xy: 1, 1
+  size: 852, 690
+  orig: 900, 720
+  offset: 26, 13
+  index: -1
+play
+  rotate: false
+  xy: 855, 526
+  size: 180, 180
+  orig: 200, 200
+  offset: 11, 7
+  index: -1
+playPressed
+  rotate: false
+  xy: 1037, 526
+  size: 180, 180
+  orig: 200, 200
+  offset: 11, 7
+  index: -1
+pontuacoes
+  rotate: false
+  xy: 855, 176
+  size: 677, 173
+  orig: 800, 288
+  offset: 68, 59
+  index: -1
+reload
+  rotate: false
+  xy: 978, 708
+  size: 147, 151
+  orig: 160, 160
+  offset: 8, 2
+  index: -1
+reloadPressed
+  rotate: false
+  xy: 1127, 708
+  size: 147, 151
+  orig: 160, 160
+  offset: 8, 2
+  index: -1
+scores
+  rotate: false
+  xy: 895, 861
+  size: 146, 149
+  orig: 160, 160
+  offset: 9, 3
+  index: -1
+scoresPressed
+  rotate: false
+  xy: 1043, 861
+  size: 146, 149
+  orig: 160, 160
+  offset: 9, 3
+  index: -1
+sound
+  rotate: false
+  xy: 1276, 679
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+soundPressed
+  rotate: false
+  xy: 746, 861
+  size: 147, 151
+  orig: 160, 160
+  offset: 7, 3
+  index: -1
+titulo
+  rotate: false
+  xy: 855, 351
+  size: 677, 173
+  orig: 800, 288
+  offset: 68, 59
+  index: -1

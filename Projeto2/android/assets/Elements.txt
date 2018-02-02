@@ -1,0 +1,54 @@
+Elements.png
+size: 356, 422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CoinSpin
+  rotate: false
+  xy: 145, 287
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+Coins
+  rotate: false
+  xy: 73, 1
+  size: 280, 120
+  orig: 280, 120
+  offset: 0, 0
+  index: -1
+Ground
+  rotate: false
+  xy: 73, 245
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+Platform
+  rotate: false
+  xy: 145, 245
+  size: 210, 40
+  orig: 210, 40
+  offset: 0, 0
+  index: -1
+PlatformWSpikes
+  rotate: false
+  xy: 1, 1
+  size: 70, 420
+  orig: 70, 420
+  offset: 0, 0
+  index: -1
+Time
+  rotate: false
+  xy: 73, 123
+  size: 280, 120
+  orig: 280, 120
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 145, 339
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1

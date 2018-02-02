@@ -1,0 +1,21 @@
+            Controlos
+
+Jump : clicar uma vez no ecra
+DoubleJump : clicar duas vezes no ecra
+Slide : deslizar para baixo
+
+
+            Regras
+
+O jogo termina quando o jogador bate num plataforma, pico ou inimigo.
+Tenta apanhar o maior numero de moedas e jogar mais tempo possivel!!
+
+Boa sorte!
+
+
+            Creditos
+
+Jogo realizado por Andreia Rodrigues e Ines Gomes no ambito da unidade
+curricular Laboratorio de Programacao Orientada a Objetos do 2 ano do
+Mestrado Integrado em Engenharia Informatica e Computacao da Faculdade
+de Engenharia da Universidade do Porto, 2016

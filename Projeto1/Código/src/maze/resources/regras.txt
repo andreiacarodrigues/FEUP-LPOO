@@ -1,0 +1,29 @@
+Labirinto aleatório:
+Ao escolher esta opção o utilizador deve configurar o seu labirinto escolhendo o seu tamanho,
+tipo de jogo e número de dragões. 
+De seguida sera criado um labirinto aleatório com as configurações escolhidas.
+
+Labirinto personalizado:
+Ao escolher esta opção o utilizador deve configurar o tamanho do labirinto e o tipo de jogo.
+De seguida aparecerá um labirinto apenas com os limites de parede colocados. 
+O utilizador deve carregar no botão que corresponde ao elemento que quer colocar no labirinto, 
+e de seguida clicar na posição pretendida do labirinto.
+As portas nao podem ser colocadas nos cantos nem fora das paredes limite do labirinto.
+Deve ser colocada uma porta, um herói, uma espada e pelo menos um dragão por labirinto.
+Quando o labirinto estiver terminado deve se clicar no botão "Verificar labirinto" que vê se o 
+labirinto segue todas as regras estipuladas.
+Estas incluem que no labirinto :
+- não podem existir quadrados 3x3 ou maiores sem paredes
+- não podem existir quadrados 2x2 ou maiores com paredes numa diagonal e espaços vazios na 
+diagonal contrária
+- não podem existir quadrados 3x3 ou maiores com paredes
+- é obrigatório existir um caminho válido entre qualquer espaço vazio e a saída
+Se estas condições não se verificarem, é pedido ao utilizador que reveja o labirinto, se não o 
+jogador pode comecar a jogar.
+
+O jogo:
+Para jogar, o utilizador pode usar as setas ou os botões à sua direita. 
+O botão 'Novo Jogo' permite gerar um novo labirinto aleatório com as mesmas configurações previamente
+introduzidas. As indicações de jogo estarão disponiveis à direita. O objetivo é chegar ao fim do 
+labirinto. Para tal o herói deve apanhar a espada e matar todos os dragões, visto que é a única 
+maneira das portas da saída se abrirem.
